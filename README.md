@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @basil3motle433
+- 👀 I’m interested in iOS. I’m currently learning Swift.
+- 💞️ Swift programmer in training. Passionate about iOS app development. Driven to create apps that enrich users' lives.
